@@ -1,0 +1,844 @@
+HEX	NAMA
+0001	Poke Ball
+0002	Ultra Ball
+0003	Great Ball
+0004	Poke Ball
+0005	Safari Ball
+0006	Net Ball
+0007	Dive Ball
+0008	Nest Ball
+0009	Repeat Ball
+000A	Timer Ball
+000B	Luxury Ball
+000C	Premier Ball
+000D	Dusk Ball
+000E	Heal Ball
+000F	Quick Ball
+0010	Cherish Ball
+0011	Fast Ball
+0012	Level Ball
+0013	Lure Ball
+0014	Heavy Ball
+0015	Love Ball
+0016	Friend Ball
+0017	Moon Ball
+0018	Sport Ball
+0019	Park Ball
+001A	Dream Ball
+001B	Beast Ball
+001C	Potion
+001D	Antidote
+001E	Burn Heal
+001F	Ice Heal
+0020	Awakening
+0021	Parlyz Heal
+0022	Full Restore
+0023	Max Potion
+0024	Hyper Potion
+0025	Super Potion
+0026	Full Heal
+0027	Revive
+0028	Max Revive
+0029	Fresh Water
+002A	Soda Pop
+002B	Lemonade
+002C	Moomoo Milk
+002D	Energypowder
+002E	Energy Root
+002F	Heal Powder
+0030	Revival Herb
+0031	Ether
+0032	Max Ether
+0033	Elixir
+0034	Max Elixir
+0035	Lava Cookie
+0036	Blue Flute
+0037	Yellow Flute
+0038	Red Flute
+0039	Black Flute
+003A	White Flute
+003B	Berry Juice
+003C	Sweet Heart
+003D	Big Malasada
+003E	Old Gateau
+003F	Sacred Ash
+0040	Shoal Salt
+0041	Shoal Shell
+0042	Red Shard
+0043	Blue Shard
+0044	Yellow Shard
+0045	Green Shard
+0046	HP Up
+0047	Protein
+0048	Iron
+0049	Carbos
+004A	Calcium
+004B	Rare Candy
+004C	PP Up
+004D	Zinc
+004E	PP Max
+004F	Guard Spec.
+0050	Dire Hit
+0051	X Attack
+0052	X Defend
+0053	X Speed
+0054	X Accuracy
+0055	X Sp. Atk.
+0056	X Sp. Def.
+0057	Poke Doll
+0058	Fluffy Tail
+0059	Escape Rope
+005A	Repel
+005B	Super Repel
+005C	Max Repel
+005D	Ability Capsule
+005E	Health Feather
+005F	Muscle Feather
+0060	Resist Feather
+0061	Genius Feather
+0062	Clever Feather
+0063	Swift Feather
+0064	Pretty Feather
+0065	Sun Stone
+0066	Moon Stone
+0067	Fire Stone
+0068	ThunderStone
+0069	Water Stone
+006A	Leaf Stone
+006B	Dawn Stone
+006C	Dusk Stone
+006D	Shiny Stone
+006E	Ice Stone
+006F	Red Apricorn
+0070	Blue Apricorn
+0071	Yellow Apricorn
+0072	Green Apricorn
+0073	Pink Apricorn
+0074	White Apricorn
+0075	Black Apricorn
+0076	Tiny Mushroom
+0077	Big Mushroom
+0078	Pearl
+0079	Big Pearl
+007A	Stardust
+007B	Star Piece
+007C	Nugget
+007D	Heart Scale
+007E	Red Nectar
+007F	Yellow Nectar
+0080	Pink Nectar
+0081	Purple Nectar
+0082	Honey
+0083	Rare Bone
+0084	Orange Mail
+0085	Harbor Mail
+0086	Glitter Mail
+0087	Mech Mail
+0088	Wood Mail
+0089	Wave Mail
+008A	Bead Mail
+008B	Shadow Mail
+008C	Tropic Mail
+008D	Dream Mail
+008E	Fab Mail
+008F	Retro Mail
+0090	Cheri Berry
+0091	Chesto Berry
+0092	Pecha Berry
+0093	Rawst Berry
+0094	Aspear Berry
+0095	Leppa Berry
+0096	Oran Berry
+0097	Persim Berry
+0098	Lum Berry
+0099	Sitrus Berry
+009A	Figy Berry
+009B	Wiki Berry
+009C	Mago Berry
+009D	Aguav Berry
+009E	Iapapa Berry
+009F	Razz Berry
+00A0	Bluk Berry
+00A1	Nanab Berry
+00A2	Wepear Berry
+00A3	Pinap Berry
+00A4	Pomeg Berry
+00A5	Kelpsy Berry
+00A6	Qualot Berry
+00A7	Hondew Berry
+00A8	Grepa Berry
+00A9	Tamato Berry
+00AA	Cornn Berry
+00AB	Magost Berry
+00AC	Rabuta Berry
+00AD	Nomel Berry
+00AE	Spelon Berry
+00AF	Pamtre Berry
+00B0	Watmel Berry
+00B1	Durin Berry
+00B2	Belue Berry
+00B3	Occa Berry
+00B4	Passho Berry
+00B5	Wacan Berry
+00B6	Rindo Berry
+00B7	Yache Berry
+00B8	Chople Berry
+00B9	Kebia Berry
+00BA	Shuca Berry
+00BB	Coba Berry
+00BC	Payapa Berry
+00BD	Tanga Berry
+00BE	Charti Berry
+00BF	Kasib Berry
+00C0	Haban Berry
+00C1	Colbur Berry
+00C2	Babiri Berry
+00C3	Chilan Berry
+00C4	Roseli Berry
+00C5	Liechi Berry
+00C6	Ganlon Berry
+00C7	Salac Berry
+00C8	Petaya Berry
+00C9	Apicot Berry
+00CA	Lansat Berry
+00CB	Starf Berry
+00CC	Micle Berry
+00CD	Enigma Berry
+00CE	Custap Berry
+00CF	Jaboca Berry
+00D0	Rowap Berry
+00D1	Kee Berry
+00D2	Maranga Berry
+00D3	Bright Powder
+00D4	White Herb
+00D5	Macho Brace
+00D6	Exp. Share
+00D7	Quick Claw
+00D8	Soothe Bell
+00D9	Mental Herb
+00DA	Choice Band
+00DB	King's Rock
+00DC	Silver Powder
+00DD	Amulet Coin
+00DE	Cleanse Tag
+00DF	Smoke Ball
+00E0	Everstone
+00E1	Focus Band
+00E2	Lucky Egg
+00E3	Scope Lens
+00E4	Metal Coat
+00E5	Leftovers
+00E6	Dragon Scale
+00E7	Oval Stone
+00E8	Protector
+00E9	Electirizer
+00EA	Magmarizer
+00EB	Dubious Disc
+00EC	Reaper Cloth
+00ED	Razor Claw
+00EE	Razor Fang
+00EF	Prism Scale
+00F0	Whipped Dream
+00F1	Sachet
+00F2	Soft Sand
+00F3	Hard Stone
+00F4	Miracle Seed
+00F5	Black Glasses
+00F6	Black Belt
+00F7	Magnet
+00F8	Mystic Water
+00F9	Sharp Beak
+00FA	Poison Barb
+00FB	Never-Melt Ice
+00FC	Spell Tag
+00FD	Twisted Spoon
+00FE	Charcoal
+00FF	Dragon Fang
+0100	Silk Scarf
+0101	Upgrade
+0102	Shell Bell
+0103	Power Bracer
+0104	Power Belt
+0105	Power Lens
+0106	Power Band
+0107	Power Anklet
+0108	Power Weight
+0109	Power Herb
+010A	Choice Scarf
+010B	Choice Specs
+010C	Focus Sash
+010D	Wide Lens
+010E	Zoom Lens
+010F	Metronome
+0110	Muscle Band
+0111	Wise Glasses
+0112	Expert Belt
+0113	Light Clay
+0114	Icy Rock
+0115	Smooth Rock
+0116	Heat Rock
+0117	Damp Rock
+0118	Destiny Knot
+0119	Grip Claw
+011A	Life Orb
+011B	Toxic Orb
+011C	Flame Orb
+011D	Sticky Barb
+011E	Black Sludge
+011F	Iron Ball
+0120	Lagging Tail
+0121	Shed Shell
+0122	Big Root
+0123	Eviolite
+0124	Float Stone
+0125	Rocky Helmet
+0126	Air Balloon
+0127	Red Card
+0128	Ring Target
+0129	Binding Band
+012A	Eject Button
+012B	Absorb Bulb
+012C	Cell Battery
+012D	Luminous Moss
+012E	Snowball
+012F	Weakness Policy
+0130	Assault Vest
+0131	Safety Goggles
+0132	Adrenaline Orb
+0133	T.Extender
+0134	Protective Pads
+0135	Electric Seed
+0136	Psychic Seed
+0137	Misty Seed
+0138	Grassy Seed
+0139	Sea Incense
+013A	Lax Incense
+013B	Odd Incense
+013C	Rock Incense
+013D	Full Incense
+013E	Wave Incense
+013F	Rose Incense
+0140	Luck Incense
+0141	Pure Incense
+0142	Insect Plate
+0143	Dread Plate
+0144	Draco Plate
+0145	Zap Plate
+0146	Pixie Plate
+0147	Fist Plate
+0148	Flame Plate
+0149	Sky Plate
+014A	Spooky Plate
+014B	Meadow Plate
+014C	Earth Plate
+014D	Icicle Plate
+014E	Toxic Plate
+014F	Mind Plate
+0150	Stone Plate
+0151	Iron Plate
+0152	Splash Plate
+0153	Bug Gem
+0154	Dark Gem
+0155	Dragon Gem
+0156	Electric Gem
+0157	Fairy Gem
+0158	Fighting Gem
+0159	Fire Gem
+015A	Flying Gem
+015B	Ghost Gem
+015C	Grass Gem
+015D	Ground Gem
+015E	Ice Gem
+015F	Normal Gem
+0160	Poison Gem
+0161	Psychic Gem
+0162	Rock Gem
+0163	Steel Gem
+0164	Water Gem
+0165	Soul Dew
+0166	Deep Sea Tooth
+0167	Deep Sea Scale
+0168	Lucky Punch
+0169	Metal Powder
+016A	Thick Club
+016B	Leek
+016C	Light Ball
+016D	Quick Powder
+016E	Odd Keystone
+016F	Adamant Orb
+0170	Lustrous Orb
+0171	Griseous Orb
+0172	Gracidea
+0173	Bug Memory
+0174	Dark Memory
+0175	Dragon Memory
+0176	Elec. Memory
+0177	Fairy Memory
+0178	Fight Memory
+0179	Fire Memory
+017A	Flying Memory
+017B	Ghost Memory
+017C	Grass Memory
+017D	Ground Memory
+017E	Ice Memory
+017F	Poison Memory
+0180	Psychic Memory
+0181	Rock Memory
+0182	Steel Memory
+0183	Water Memory
+0184	Douse Drive
+0185	Shock Drive
+0186	Burn Drive
+0187	Chill Drive
+0188	Red Scarf
+0189	Blue Scarf
+018A	Pink Scarf
+018B	Green Scarf
+018C	Yellow Scarf
+018D	Abomasite
+018E	Absolite
+018F	Aerodactylite
+0190	Aggronite
+0191	Alakazite
+0192	Altarianite
+0193	Ampharosite
+0194	Audinite
+0195	Banettite
+0196	Beedrillite
+0197	Blastoisinite
+0198	Blazikenite
+0199	Cameruptite
+019A	Charizardite X
+019B	Charizardite Y
+019C	Diancite
+019D	Galladite
+019E	Garchompite
+019F	Gardevoirite
+01A0	Gengarite
+01A1	Glalitite
+01A2	Gyaradosite
+01A3	Heracronite
+01A4	Houndoominite
+01A5	Kangaskhanite
+01A6	Latiasite
+01A7	Latiosite
+01A8	Lopunnite
+01A9	Lucarionite
+01AA	Manectite
+01AB	Mawilite
+01AC	Medichamite
+01AD	Metagrossite
+01AE	Mewtwonite X
+01AF	Mewtwonite Y
+01B0	Pidgeotite
+01B1	Pinsirite
+01B2	Sablenite
+01B3	Salamencite
+01B4	Sceptilite
+01B5	Scizorite
+01B6	Sharpedonite
+01B7	Slowbronite
+01B8	Steelixite
+01B9	Swampertite
+01BA	Tyranitarite
+01BB	Venusaurite
+01BC	Mega Bracelet
+01BD	Armor Fossil
+01BE	Skull Fossil
+01BF	Helix Fossil
+01C0	Dome Fossil
+01C1	Cover Fossil
+01C2	Plume Fossil
+01C3	Jaw Fossil
+01C4	Sail Fossil
+01C5	Root Fossil
+01C6	Claw Fossil
+01C7	Mach Bike
+01C8	Coin Case
+01C9	Dowsing Machine
+01CA	Old Rod
+01CB	Good Rod
+01CC	Super Rod
+01CD	S.S. Ticket
+01CE	Contest Pass
+01CF	Wailmer Pail
+01D0	Devon Goods
+01D1	Soot Sack
+01D2	Basement Key
+01D3	Bike
+01D4	##### case
+01D5	Letter
+01D6	Eon Ticket
+01D7	Red Orb
+01D8	Blue Orb
+01D9	Scanner
+01DA	Go-Goggles
+01DB	Meteorite
+01DC	Key to Room 1
+01DD	Key to Room 2
+01DE	Key to Room 4
+01DF	Key to Room 6
+01E0	Storage Key
+01E1	Devon Scope
+01E2	TM01
+01E3	TM02
+01E4	TM03
+01E5	TM04
+01E6	TM05
+01E7	TM06
+01E8	TM07
+01E9	TM08
+01EA	TM09
+01EB	TM10
+01EC	TM11
+01ED	TM12
+01EE	TM13
+01EF	TM14
+01F0	TM15
+01F1	TM16
+01F2	TM17
+01F3	TM18
+01F4	TM19
+01F5	TM20
+01F6	TM21
+01F7	TM22
+01F8	TM23
+01F9	TM24
+01FA	TM25
+01FB	TM26
+01FC	TM27
+01FD	TM28
+01FE	TM29
+01FF	TM30
+0200	TM31
+0201	TM32
+0202	TM33
+0203	TM34
+0204	TM35
+0205	TM36
+0206	TM37
+0207	TM38
+0208	TM39
+0209	TM40
+020A	TM41
+020B	TM42
+020C	TM43
+020D	TM44
+020E	TM45
+020F	TM46
+0210	TM47
+0211	TM48
+0212	TM49
+0213	TM50
+0214	TM51
+0215	TM52
+0216	TM53
+0217	TM54
+0218	TM55
+0219	TM56
+021A	TM57
+021B	TM58
+021C	TM59
+021D	TM60
+021E	TM61
+021F	TM62
+0220	TM63
+0221	TM64
+0222	TM65
+0223	TM66
+0224	TM67
+0225	TM68
+0226	TM69
+0227	TM70
+0228	TM71
+0229	TM72
+022A	TM73
+022B	TM74
+022C	TM75
+022D	TM76
+022E	TM77
+022F	TM78
+0230	TM79
+0231	TM80
+0232	TM81
+0233	TM82
+0234	TM83
+0235	TM84
+0236	TM85
+0237	TM86
+0238	TM87
+0239	TM88
+023A	TM89
+023B	TM90
+023C	TM91
+023D	TM92
+023E	TM93
+023F	TM94
+0240	TM95
+0241	TM96
+0242	TM97
+0243	TM98
+0244	TM99
+0245	TM100
+0246	TM101
+0247	TM102
+0248	TM103
+0249	TM104
+024A	TM105
+024B	TM106
+024C	TM107
+024D	TM108
+024E	TM109
+024F	TM110
+0250	TM111
+0251	TM112
+0252	TM113
+0253	TM114
+0254	TM115
+0255	TM116
+0256	TM117
+0257	TM118
+0258	TM119
+0259	TM120
+0260	Tea
+02AA	HM01
+02AB	HM02
+02AC	HM03
+02AD	HM04
+02AE	HM05
+02AF	HM06
+02B0	HM07
+02B1	HM08
+02B2	Ability Patch
+02B3	Power Candy
+02B4	HeavyDutyBoots
+02B5	Bike Voucher
+02B6	Gold Teeth
+02B7	Old Amber
+02B8	Card Key
+02B9	Lift Key
+02BA	Silph Scope
+02BB	Bicycle
+02BC	Town Map
+02BD	Vs Seeker
+02BE	Fame Checker
+02BF	TM Case
+02C0	Berry Pouch
+02C1	Ride Pager
+02C2	Tri-Pass
+02C3	Rainbow Pass
+02C5	Mystic Ticket
+02C6	Aurora Ticket
+02C7	Powder Jar
+02C8	Ruby
+02C9	Sapphire
+02CA	Magma Emblem
+02CB	Old Sea Map
+02CC	Shiny Charm
+02CD	Oval Charm
+02CE	Link Cable
+02CF	S.Souvenir
+02D0	Eon Flute
+02D1	Lure
+02D2	Super Lure
+02D3	Max Lure
+02D4	Safari Pass
+02D5	Adamant Mint
+02D6	Bold Mint
+02D7	Brave Mint
+02D8	Calm Mint
+02D9	Careful Mint
+02DA	Gentle Mint
+02DB	Hasty Mint
+02DC	Impish Mint
+02DD	Jolly Mint
+02DE	Lax Mint
+02DF	Lonely Mint
+02E0	Mild Mint
+02E1	Modest Mint
+02E2	Naive Mint
+02E3	Naughty Mint
+02E4	Quiet Mint
+02E5	Rash Mint
+02E6	Relaxed Mint
+02E7	Sassy Mint
+02E8	Serious Mint
+02E9	Timid Mint
+02EA	Poke Ball Seal
+02EB	Master Ball Seal
+02EC	Ultra Ball S.
+02ED	Great Ball Seal
+02EE	Safari Ball S.
+02EF	Net Ball Seal
+02F0	Dive Ball Seal
+02F1	Nest Ball Seal
+02F2	Repeat Ball S.
+02F3	Timer Ball S.
+02F4	Luxury Ball S.
+02F5	Premier Ball S.
+02F6	Dusk Ball S.
+02F7	Heal Ball S.
+02F8	Quick Ball S.
+02F9	Cherish Ball S.
+02FA	Fast Ball Seal
+02FB	Level Ball S.
+02FC	Lure Ball Seal
+02FD	Heavy Ball S.
+02FE	Love Ball Seal
+02FF	Friend Ball S.
+0300	Moon Ball Seal
+0301	Sport Ball S.
+0302	Park Ball S.
+0303	Dream Ball S.
+0304	Beast Ball S.
+0305	Exiolite
+0306	Iron Pill
+0307	Exp Charm
+0308	Catching Charm
+0309	U. Teacup
+030A	M. Teacup
+030B	Peat Block
+030C	AuspiciousArmor
+030D	Malicious Armor
+030E	Sweet Apple
+030F	Tart Apple
+0310	Syrup Apple
+0311	ScrollofDarkness
+0312	Scroll of Waters
+0313	Metal Alloy
+0314	Black Augurite
+0315	Chipped Pot
+0316	Cracked Pot
+0317	Galarica Cuff
+0318	Galarica Twig
+0319	Rainbow Sweet
+0325	Fossilized Bird
+0326	Fossilized Dino
+0327	Fossilized Fish
+0328	Fossilized Drake
+032C	Rotom Catalog
+032E	U-Umbrella
+0331	Delta Orb
+0332	Loaded Dice
+0334	BP Ticket
+0335	Sevii Ticket 1
+0336	Sevii Ticket 2
+0337	Sevii Ticket 3
+0338	Sevii Ticket 4
+0339	Sevii Ticket 5
+033A	Sevii Ticket 6
+033B	Sevii Ticket 7
+033C	Axe
+033D	Lantern
+033E	Pick-axe
+033F	Power Glove
+0340	Surfboard
+0341	Fly Tool
+0342	Dive Gear
+0343	Waterfall Tool
+0344	Shaking Tool
+0345	Fly Charm
+0346	Wonder Charm
+0347	Alpha Charm
+0348	Effort Tool
+0349	Sevii Ticket 8
+034A	Alcremite
+034B	Appletite
+034C	Butterfrite
+034D	Centisite
+034E	Coalossite
+034F	Corviknite
+0350	Drednawite
+0351	Flapplite
+0352	Garbodorite
+0353	Hatterenite
+0354	Kinglerite
+0355	Laprite
+0356	Machampite
+0357	Orbeetlite
+0358	Sandacondite
+0359	Snorlaxite
+035A	Inverse Gem
+035B	Clefablite
+035C	Victribellite
+035D	Starminite
+035E	Floettite
+035F	Dragoninite
+0360	Meganiumite
+0361	Feraligite
+0362	Skarmorite
+0363	Froslassite
+0364	Emboarite
+0365	Excadrite
+0366	Scolipite
+0367	Scraftinite
+0368	Eelektrossite
+0369	Chandelurite
+036A	Delphoxite
+036B	Chesnaughtite
+036C	Greninjite
+036D	Pyroarite
+036E	Malamarite
+036F	Barbaracite
+0370	Dragalgite
+0371	Hawluchanite
+0372	Zygardite
+0373	Drampanite
+0374	Falinksite
+0375	Raichunite X
+0376	Raichunite Y
+0377	Venausurite G
+0378	Blastoiste G
+0379	Grimmsnarlite
+037A	Melmetalite
+037B	Rillaboomite
+037C	Cinderacite
+037D	Inteleonite
+037E	Toxtricitite
+037F	Urishifunite
+0380	Slowkingite
+0381	Crobatite
+0382	Dewgongite
+0383	Typhlosionite
+0384	Lanturnite
+0385	Quagsirite
+0386	Breloomite
+0387	Shedinjite
+0388	Flygonite
+0389	Miloticite
+038A	Serperiorite
+038B	Samurottite
+038C	Ribombite
+038D	Chimechite
+038E	Absolite Z
+038F	Staraptorite
+0390	Garchompite Z
+0391	Lucarionite Z
+0392	Meowstite
+0393	Golurkite
+0394	Crabominablite
+0395	Golispodite
+0396	Magearnite
+0397	Scovillainite
+0398	Glimmorite
+0399	Tatsugirite
+039A	Baxcaliburite
+039B	Darkraite
+039C	Heatranite
+039D	Zeraoranite
+039E	Clodsirite
+039F	Sandslashite
+03A0	Toucannonite
+03A1	Vanilluxite
+03A2	Tinkatite
+03A3	Shucklenite
+03A4	Krookodilenite
+03A5	Tseerenite
+03A6	Luxraynite
+03A7	Clefablite R
+03A8	Starminite R
+03A9	Necrozmanite
+03AA	Inverse Shield
+03AB	Eject Pack
+03AC	Blunder Policy
+03AD	Arbokite

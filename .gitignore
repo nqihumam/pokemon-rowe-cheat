@@ -1,0 +1,7 @@
+# File game & save tidak ikut di-upload (hak cipta + data pribadi)
+*.gba
+*.sav
+*.sav.backup
+*.fb
+*.stat
+save/
