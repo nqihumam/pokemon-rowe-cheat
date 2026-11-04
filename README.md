@@ -32,6 +32,8 @@ Tinggal salin, tempel ke emulator, selesai.
 | 4 | `4_Mart_Item_TEMPLATE.txt` | Barang pertama di Poké Mart diganti barang pilihanmu | ✅ Berhasil |
 | 5 | `5_PC_Nugget_x5.txt` | 5 Nugget di PC (Item Storage), terisi lagi tiap diambil. Jual ke Mart untuk uang | ⚠️ Belum dites |
 | 6 | `6_PC_Item_TEMPLATE_x5.txt` | 5 buah item apa saja di PC (Item Storage) | ⚠️ Belum dites |
+| 7 | `7_Pokedex_Lengkap.txt` | Pokédex 1025 terisi semua (seen saja). Cukup sekali, lalu save | ✅ Berhasil (versi seen+caught) |
+| 8 | `8_Pokedex_Reset_Caught.txt` | Hapus semua tanda caught (perbaikan logo Poké Ball dari cheat 7 versi lama) | ⚠️ Belum dites |
 
 ### Cheat "TEMPLATE" (no. 4 dan 6)
 
@@ -66,7 +68,14 @@ Daftar lengkap kode item ada di [`data/item_ids.txt`](data/item_ids.txt) (lihat 
 | Leftovers | `00E5` |
 | Mega Bracelet | `01BC` |
 | TM01 – TM120 | `01E2` – `0259` |
-| HM01 – HM08 | `02AA` – `02B1` |
+| Axe (Cut) | `033C` |
+| Lantern (Flash) | `033D` |
+| Pick-axe (Rock Smash) | `033E` |
+| Power Glove (Strength) | `033F` |
+| Surfboard (Surf) | `0340` |
+| Fly Tool (Fly) | `0341` |
+| Dive Gear (Dive) | `0342` |
+| Waterfall Tool (Waterfall) | `0343` |
 
 File data:
 
@@ -82,6 +91,7 @@ File data:
 | Percobaan | Alasan | Solusinya |
 |-----------|--------|-----------|
 | Rare Candy (`004B`) | Dimatikan oleh pembuat ROWE ("time and place") | Pakai cheat no. 2 |
+| HM01 – HM08 (`02AA` – `02B1`) | ROWE tidak pakai HM. Itemnya cuma sisa data, tidak ada Pokémon yang compatible | Pakai item alat: Axe, Fly Tool, Surfboard, dll (lihat tabel kode item) |
 | Master Ball (`0001`) | Diubah jadi Poké Ball biasa | Pakai cheat no. 1 |
 | Semua harga jadi $1 | Sudah dites, tidak berhasil | — |
 | Item langsung masuk tas | Lokasi data save berpindah acak tiap load/pindah map, jumlah item dienkripsi | Pakai cheat no. 4, 5, atau 6 |
@@ -92,6 +102,7 @@ File data:
 
 - Pointer SaveBlock1 = `03004B7C`, posisinya = `02026268 + (0..7C)`, PC item = `+0x408`
 - Skrip battle `02024DB4`: gagal-goyang `08398BB1` → berhasil `08398B3C`
+- Pokédex flag: fungsi `08103C70`, seen = SaveBlock1 `+0x3320`, caught = `+0x33DC` (bit `n-1`, 1025 spesies)
 - DexNav: pointer pencarian `0203E828` (heap), variabel Quick Search `0x40F7`
 
 ---
